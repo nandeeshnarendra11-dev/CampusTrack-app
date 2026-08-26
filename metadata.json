@@ -1,0 +1,6 @@
+{
+  "name": "CampusTrack",
+  "description": "Real-time college student bus tracking, driver GPS navigation, and transportation admin management system with live interactive maps and ETA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
